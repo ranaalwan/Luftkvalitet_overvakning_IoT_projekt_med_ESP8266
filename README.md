@@ -52,7 +52,7 @@ Målen med detta projekt strävar efter att uppnå flera aspekter inom området 
 
 
 
-### Kopplingsschema
+## Kopplingsschema
 
 
 <img src="bilder/kopplings.png" width="800" />
@@ -63,7 +63,7 @@ Målen med detta projekt strävar efter att uppnå flera aspekter inom området 
 
 <p align="right">(<a href="#top">tillbaka till toppen</a>)</p>
 
-### Metodik
+## Metodik
 
 1. Val av Sensorer
 Sensorvalet baseras på projektets behov och syfte.
