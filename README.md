@@ -11,7 +11,7 @@
 - [Målet ](#Målet )
 - [Kopplingsschema](#kopplingsschema)
 - [Metodik](#Metodik)
-- [Analys och Diskussion](#Analys och Diskussion)
+- [Analys och Diskussion](#Analys-och-Diskussion)
 - [Slutsatser](#Slutsatser)
 
 
