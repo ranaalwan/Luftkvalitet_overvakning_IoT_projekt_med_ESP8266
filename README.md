@@ -11,7 +11,7 @@
 - [Målet ](#Målet )
 - [Kopplingsschema](#kopplingsschema)
 - [Metodik](#Metodik)
-- [Uppstart](#uppstart)
+- [Analys och Diskussion](#Analys och Diskussion)
 - [Slutsatser](#Slutsatser)
 
 
@@ -48,8 +48,6 @@ Målen med detta projekt strävar efter att uppnå flera aspekter inom området 
 -Förbättra hälsa: Genom att erbjuda realtidsdata om luftkvaliteten och varningar vid potentiellt skadliga nivåer strävar projektet efter att direkt påverka hälsan hos de som vistas i övervakade områden.
 -Forskningsbidrag: Genom att noggrant analysera och rapportera resultatet av luftkvalitetsövervakningen, avser projektet att bidra till forskningsområdet genom att tillhandahålla insikter och data som kan vara användbara för framtida studier.
 -Teknisk utveckling: Projektet syftar också till att utforska och förbättra tekniska aspekter av IoT-lösningar och sensorintegration för att övervaka luftkvalitet på ett mer effektivt och kostnadseffektivt sätt.
-
-
 
 
 ## Kopplingsschema
