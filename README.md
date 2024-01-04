@@ -35,7 +35,7 @@ därigenom bidrar till att skapa en hälsosam inomhusmiljö.
 
 ## Översikt   
 
-<img src="Bilder/diagram.drawio.png" width="800"/>
+<img src="Bilder/diagram.drawio.png" width="700" height="500"/>
 
 
 
@@ -53,9 +53,9 @@ Målen med detta projekt strävar efter att uppnå flera aspekter inom området 
 ## Kopplingsschema
 
 
-<img src="Bilder/kopplings.png" width="800" />
+<img src="Bilder/kopplings.png" width="700" height="500"/>
 
-<img src="Bilder/koppling.jpg" width="800" />
+<img src="Bilder/koppling.jpg" width="700" height="500" />
 
 <br>
 
@@ -102,7 +102,7 @@ thingspeak_channel_id = '2379138'
 -Datalagring: ThingSpeak låter dig lagra och hämta tidsseriedata. Varje post i databasen innehåller en tidsstämpel, vilket är viktigt för att spåra data över tid.
 
 
-<img src="Bilder/datastoreg.png" width="800"/>
+<img src="Bilder/datastoreg.png" width="700" height="500"/>
 
 4. Python-script (Telegram-integration)
 
@@ -142,7 +142,7 @@ svar = requests.post(url, json=params)
 ```
 
 
-<img src="Bilder/telegram.png" width="800" />
+<img src="Bilder/telegram.png" width="700" height="500" />
 
 
 <p align="right">(<a href="#top">tillbaka till toppen</a>)</p>
@@ -176,7 +176,7 @@ Resultatanalysen stöder effektiviteten och användbarheten av den implementerad
 Vidare forskning och analys kan fokusera på att korrelera de observerade gasnivåerna med specifika påverkande faktorer och överväga ytterligare parametrar för en mer omfattande bedömning av inomhusluftkvaliteten.
 
 <p align="right">(<a href="#top">tillbaka till toppen</a>)</p>
-<img src="Bilder/visualesering.png" width="800" />
+<img src="Bilder/visualesering.png" width="700" height= "500" />
 
 
  ///README har skapats av Rana Alwan///.
