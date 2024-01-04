@@ -96,7 +96,7 @@ thingspeak_channel_id = '2379138'
 ```
 
 
-<img src="bilder/diagram.drawio.png" width="800"/>
+<img src="Bilder/thingSpeak.png" width="800"/>
 
 
 -Datalagring: ThingSpeak låter dig lagra och hämta tidsseriedata. Varje post i databasen innehåller en tidsstämpel, vilket är viktigt för att spåra data över tid.
