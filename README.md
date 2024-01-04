@@ -142,7 +142,7 @@ svar = requests.post(url, json=params)
 ```
 
 
-<img src="Bilder/telegram.png" width="700" height="800" />
+<img src="Bilder/telegram.png" width="600" height="700" />
 
 
 <p align="right">(<a href="#top">tillbaka till toppen</a>)</p>
