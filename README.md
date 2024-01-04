@@ -53,9 +53,9 @@ Målen med detta projekt strävar efter att uppnå flera aspekter inom området 
 ## Kopplingsschema
 
 
-<img src="Bilder/koppling.jpg" width="800" />
-
 <img src="Bilder/kopplings.png" width="800" />
+
+<img src="Bilder/koppling.jpg" width="800" />
 
 <br>
 
