@@ -35,7 +35,7 @@ därigenom bidrar till att skapa en hälsosam inomhusmiljö.
 
 ## Översikt   
 
-<img src="Bilder/diagram.drawio.png" width="700" height="600"/>
+<img src="Bilder/diagram.drawio.png" width="800" height="600"/>
 
 
 
@@ -53,7 +53,7 @@ Målen med detta projekt strävar efter att uppnå flera aspekter inom området 
 ## Kopplingsschema
 
 
-<img src="Bilder/kopplings.png" width="800" height="600"/>
+<img src="Bilder/kopplings.png" width="700" height="600"/>
 
 <img src="Bilder/koppling.jpg" width="800" height="600" />
 
@@ -96,7 +96,7 @@ thingspeak_channel_id = '2379138'
 ```
 
 
-<img src="Bilder/thingSpeak.png" width="800" height="600"/>
+<img src="Bilder/thingSpeak.png" width="800" height="700"/>
 
 
 -Datalagring: ThingSpeak låter dig lagra och hämta tidsseriedata. Varje post i databasen innehåller en tidsstämpel, vilket är viktigt för att spåra data över tid.
@@ -142,7 +142,7 @@ svar = requests.post(url, json=params)
 ```
 
 
-<img src="Bilder/telegram.png" width="800" height="500" />
+<img src="Bilder/telegram.png" width="700" height="800" />
 
 
 <p align="right">(<a href="#top">tillbaka till toppen</a>)</p>
