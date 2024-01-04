@@ -35,7 +35,7 @@ därigenom bidrar till att skapa en hälsosam inomhusmiljö.
 
 ## Översikt   
 
-<img src="bilder/diagram.drawio.png" width="800"/>
+<img src="Bilder/diagram.drawio.png" width="800"/>
 
 
 
@@ -53,9 +53,9 @@ Målen med detta projekt strävar efter att uppnå flera aspekter inom området 
 ## Kopplingsschema
 
 
-<img src="bilder/koppling.jpg" width="800" />
+<img src="Bilder/koppling.jpg" width="800" />
 
-<img src="bilder/kopplings.png" width="800" />
+<img src="Bilder/kopplings.png" width="800" />
 
 <br>
 
