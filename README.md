@@ -102,7 +102,7 @@ thingspeak_channel_id = '2379138'
 -Datalagring: ThingSpeak låter dig lagra och hämta tidsseriedata. Varje post i databasen innehåller en tidsstämpel, vilket är viktigt för att spåra data över tid.
 
 
-<img src="bilder/diagram.drawio.png" width="800"/>
+<img src="Bilder/datastoreg.png" width="800"/>
 
 4. Python-script (Telegram-integration)
 
@@ -142,7 +142,7 @@ svar = requests.post(url, json=params)
 ```
 
 
-<img src="bilder/telegram.png" width="800" />
+<img src="Bilder/telegram.png" width="800" />
 
 
 <p align="right">(<a href="#top">tillbaka till toppen</a>)</p>
@@ -176,6 +176,8 @@ Resultatanalysen stöder effektiviteten och användbarheten av den implementerad
 Vidare forskning och analys kan fokusera på att korrelera de observerade gasnivåerna med specifika påverkande faktorer och överväga ytterligare parametrar för en mer omfattande bedömning av inomhusluftkvaliteten.
 
 <p align="right">(<a href="#top">tillbaka till toppen</a>)</p>
+<img src="Bilder/visualesering.png" width="800" />
+
 
  ///README har skapats av Rana Alwan///.
 
