@@ -184,7 +184,7 @@ Vidare forskning och analys kan fokusera på att korrelera de observerade gasniv
 [![Klicka för att titta på videon]](https://github.dev/ranaalwan/Luftkvalitet_overvakning_IoT_projekt_med_ESP8266/blob/e1ebf32e35d4cb12dfd73593d35eb981748f6a25/gas_sensor.mp4)
 
  <video width="640" height="360" controls>
-        <source src="gas_sensor.mp4" type="video/mp4">
+        <source src="gas_sensor.mp4" type="video/mp4">  </video>
 
 ///README har skapats av Rana Alwan///
 <p align="right">(<a href="#top">tillbaka till toppen</a>)</p>
