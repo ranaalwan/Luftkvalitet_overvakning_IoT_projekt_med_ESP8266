@@ -177,7 +177,6 @@ Vidare forskning och analys kan fokusera på att korrelera de observerade gasniv
 
 
 <img src="Bilder/visualesering.png" width="800" height= "600" />
-[<video width="640" height="360" controls src="gas_sensor.mp4" />
 
 https://github.dev/ranaalwan/Luftkvalitet_overvakning_IoT_projekt_med_ESP8266/blob/master/gas_sensor.mp4)https://github.dev/ranaalwan/Luftkvalitet_overvakning_IoT_projekt_med_ESP8266/blob/master/gas_sensor.mp4
 
