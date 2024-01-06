@@ -178,7 +178,7 @@ Vidare forskning och analys kan fokusera på att korrelera de observerade gasniv
 <p align="right">(<a href="#top">tillbaka till toppen</a>)</p>
 <img src="Bilder/visualesering.png" width="800" height= "600" />
 
-<video width="640" height="360" controls src="Bilder/video.mp4" type="video/mp4">
+<video width="640" height="360" controls src="gas_sensor.mp4" type="video/mp4">
 
 
 
