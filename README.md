@@ -176,14 +176,7 @@ Resultatanalysen stöder effektiviteten och användbarheten av den implementerad
 Vidare forskning och analys kan fokusera på att korrelera de observerade gasnivåerna med specifika påverkande faktorer och överväga ytterligare parametrar för en mer omfattande bedömning av inomhusluftkvaliteten.
 
 
-<video width="640" height="360" controls src="gas_sensor.mp4" type="video/mp4" />
 <img src="Bilder/visualesering.png" width="800" height= "600" />
-
-
-
-
-
-
-///README har skapats av Rana Alwan///.
-
+<video width="640" height="360" controls src="gas_sensor.mp4" />
+///README har skapats av Rana Alwan///
 <p align="right">(<a href="#top">tillbaka till toppen</a>)</p>
