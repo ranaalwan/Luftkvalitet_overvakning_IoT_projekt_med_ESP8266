@@ -175,14 +175,14 @@ Resultatanalys: Luftkvalitetsdata som samlats in och analyserats visar på flera
 Resultatanalysen stöder effektiviteten och användbarheten av den implementerade lösningen för luftkvalitetsövervakning. Gasdetektionssystemet verkar vara pålitligt och ger användare relevanta varningar vid behov. Dessutom möjliggör överföringen av data till ThingSpeak en omfattande övervakning av luftkvaliteten över tid.
 Vidare forskning och analys kan fokusera på att korrelera de observerade gasnivåerna med specifika påverkande faktorer och överväga ytterligare parametrar för en mer omfattande bedömning av inomhusluftkvaliteten.
 
-<p align="right">(<a href="#top">tillbaka till toppen</a>)</p>
+
 <img src="Bilder/visualesering.png" width="800" height= "600" />
 
-<video width="640" height="360" controls src="gas_sensor.mp4" type="video/mp4">
+<video width="640" height="360" controls src="gas_sensor.mp4" type="video/mp4" />
 
 
 
 
 ///README har skapats av Rana Alwan///.
 
-
+<p align="right">(<a href="#top">tillbaka till toppen</a>)</p>
