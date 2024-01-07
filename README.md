@@ -21,7 +21,7 @@ Genom att integrera en MQ2-gassensor med ESP8266 och dra nytta av Thingspeak-pla
 Huvudmålet är att skapa ett pålitligt system som ger realtidsdata om luftkvaliteten och ger snabba varningar vid avvikande nivåer,
 därigenom bidrar till att skapa en hälsosam inomhusmiljö. 
 
-## Komponenter
+### Komponenter
 
 - Sensor: MQ2 gassensor , Buzzer .
 - IoT-enhet: ESP8266-mikrokontroller för datainsamling.
@@ -41,7 +41,7 @@ därigenom bidrar till att skapa en hälsosam inomhusmiljö.
 
 <p align="right">(<a href="#top">tillbaka till toppen</a>)</p>
 
-## Målet 
+### Målet 
 
 Målen med detta projekt strävar efter att uppnå flera aspekter inom området luftkvalitetsövervakning och dess påverkan på människors hälsa och välbefinnande:
 -Skapa medvetenhet: Genom att utveckla och implementera en IoT-lösning för luftkvalitetsövervakning syftar projektet till att öka medvetenheten om vikten av ren luft i inomhusmiljöer.
@@ -50,7 +50,7 @@ Målen med detta projekt strävar efter att uppnå flera aspekter inom området 
 -Teknisk utveckling: Projektet syftar också till att utforska och förbättra tekniska aspekter av IoT-lösningar och sensorintegration för att övervaka luftkvalitet på ett mer effektivt och kostnadseffektivt sätt.
 
 
-## Kopplingsschema
+### Kopplingsschema
 
 
 <img src="Bilder/kopplings.png" width="700" height="600"/>
@@ -61,7 +61,7 @@ Målen med detta projekt strävar efter att uppnå flera aspekter inom området 
 
 <p align="right">(<a href="#top">tillbaka till toppen</a>)</p>
 
-## Metodik
+### Metodik
 
 1. Val av Sensorer
 Sensorvalet baseras på projektets behov och syfte.
