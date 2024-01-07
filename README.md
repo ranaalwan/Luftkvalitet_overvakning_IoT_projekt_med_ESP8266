@@ -6,7 +6,7 @@
 ## Innehållsförteckning.
 
 - [Sammanfattning](#Sammanfattning)
-- [Komponenter](#Komponenter)
+  - [Komponenter](#Komponenter)
 - [Översikt](#översikt)
 - [Målet ](#Målet )
 - [Kopplingsschema](#kopplingsschema)
