@@ -8,9 +8,9 @@
 - [Sammanfattning](#Sammanfattning)
   - [Komponenter](#Komponenter)
 - [Översikt](#översikt)
-- [Målet ](#Målet )
-- [Kopplingsschema](#kopplingsschema)
-- [Metodik](#Metodik)
+  - [Målet ](#Målet )
+  - [Kopplingsschema](#kopplingsschema)
+  - [Metodik](#Metodik)
 - [Analys och Diskussion](#Analys-och-Diskussion)
 - [Slutsatser](#Slutsatser)
 
