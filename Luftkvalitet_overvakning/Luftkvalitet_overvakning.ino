@@ -6,8 +6,8 @@
 #define D7 13
 
 String apiKey = "JUVRZNJWQOWXH8O2"; // Enter your Write API key from ThingSpeak
-const char *ssid = "Tele2_658e99";   // replace with your WiFi SSID
-const char *pass = "fzm5edmj";        // replace with your WiFi password
+const char *ssid = "wifi ssid";   // replace with your WiFi SSID
+const char *pass = "password";        // replace with your WiFi password
 const char *server = "api.thingspeak.com";
 const int sensorPin = 0;
 int air_quality;
